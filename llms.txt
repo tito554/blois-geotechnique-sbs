@@ -1,0 +1,46 @@
+# Geotechnique — Blois
+
+> Geotechnical engineering services in Blois, France.
+
+## Services
+- [Amelioration Sols](https://blois.geotechnique.sbs/amelioration-sols/)
+- [Ancrages](https://blois.geotechnique.sbs/ancrages/)
+- [Cbr Routier](https://blois.geotechnique.sbs/cbr-routier/)
+- [Chaussee Souple](https://blois.geotechnique.sbs/chaussee-souple/)
+- [Colonnes Ballastees](https://blois.geotechnique.sbs/colonnes-ballastees/)
+- [Densite Cone Sable](https://blois.geotechnique.sbs/densite-cone-sable/)
+- [Essai Cpt](https://blois.geotechnique.sbs/essai-cpt/)
+- [Excavations](https://blois.geotechnique.sbs/excavations/)
+- [Excavations Profondes](https://blois.geotechnique.sbs/excavations-profondes/)
+- [Fondations](https://blois.geotechnique.sbs/fondations/)
+- [Geophysique](https://blois.geotechnique.sbs/geophysique/)
+- [Geotechnique Routiere](https://blois.geotechnique.sbs/geotechnique-routiere/)
+- [Granulometrie](https://blois.geotechnique.sbs/granulometrie/)
+- [Injections](https://blois.geotechnique.sbs/injections/)
+- [Investigation](https://blois.geotechnique.sbs/investigation/)
+- [Isolation Sismique](https://blois.geotechnique.sbs/isolation-sismique/)
+- [Labo In Situ](https://blois.geotechnique.sbs/labo-in-situ/)
+- [Laboratoire](https://blois.geotechnique.sbs/laboratoire/)
+- [Limites Atterberg](https://blois.geotechnique.sbs/limites-atterberg/)
+- [Liquefaction](https://blois.geotechnique.sbs/liquefaction/)
+- [Masw](https://blois.geotechnique.sbs/masw/)
+- [Microzonage Sismique](https://blois.geotechnique.sbs/microzonage-sismique/)
+- [Murs Soutenement](https://blois.geotechnique.sbs/murs-soutenement/)
+- [Permeabilite In Situ](https://blois.geotechnique.sbs/permeabilite-in-situ/)
+- [Pieux](https://blois.geotechnique.sbs/pieux/)
+- [Radiers](https://blois.geotechnique.sbs/radiers/)
+- [Refraction Sismique](https://blois.geotechnique.sbs/refraction-sismique/)
+- [Resistivite](https://blois.geotechnique.sbs/resistivite/)
+- [Semelles](https://blois.geotechnique.sbs/semelles/)
+- [Sismique](https://blois.geotechnique.sbs/sismique/)
+- [Stabilite Talus](https://blois.geotechnique.sbs/stabilite-talus/)
+- [Surveillance Excavations](https://blois.geotechnique.sbs/surveillance-excavations/)
+- [Talus](https://blois.geotechnique.sbs/talus/)
+- [Vibrocompactage](https://blois.geotechnique.sbs/vibrocompactage/)
+
+## Contact
+- Website: https://blois.geotechnique.sbs/
+
+## About
+This site provides geotechnical engineering services in Blois, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
